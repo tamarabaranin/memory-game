@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/bee.png</file>
+        <file>images/cat.png</file>
+        <file>images/dog.png</file>
+        <file>images/elephant.png</file>
+        <file>images/koala.png</file>
+        <file>images/lion.png</file>
+        <file>images/snail.png</file>
+        <file>images/turtle.png</file>
+    </qresource>
+</RCC>

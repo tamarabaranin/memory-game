@@ -1,0 +1,25 @@
+# ninja log v5
+321	2999	1743113305169728653	CMakeFiles/MemoryGame.dir/card.cpp.o	13ac0d3fcb843199
+0	11	0	CMakeFiles/clean.additional	3a80d3dabb4676df
+2934	3264	1744212861403827850	MemoryGame	fd38f38142a72e2b
+7	200	1744212858343884308	/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/MemoryGame_autogen/timestamp	f90765b02c9bb601
+7	200	1744212858343884308	/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/MemoryGame_autogen/mocs_compilation.cpp	f90765b02c9bb601
+283	2156	1743113068698746279	CMakeFiles/MemoryGame.dir/qrc_resources.cpp.o	a5cf6f5e62270e60
+263	283	1743113066826636466	/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/qrc_resources.cpp	16d87d27aafc68b4
+263	283	1743113066826636466	qrc_resources.cpp	16d87d27aafc68b4
+11	18	0	clean	ee184da5fb499d24
+7	200	1744212858343884308	MemoryGame_autogen/timestamp	f90765b02c9bb601
+200	2281	1744212860423845927	CMakeFiles/MemoryGame.dir/main.cpp.o	20c041598b382f59
+200	2934	1744212861075833899	CMakeFiles/MemoryGame.dir/mainwindow.cpp.o	1ea2f9813c96887b
+7	200	1744212858343884308	MemoryGame_autogen/mocs_compilation.cpp	f90765b02c9bb601
+200	2385	1744212860527844008	CMakeFiles/MemoryGame.dir/MemoryGame_autogen/mocs_compilation.cpp.o	994d6fde108faef6
+200	1786	1744212859927855076	CMakeFiles/MemoryGame.dir/popup.cpp.o	e1804eaf5d1a4f36
+1	239	1744735913536648888	MemoryGame_autogen/timestamp	f90765b02c9bb601
+1	239	1744735913536648888	MemoryGame_autogen/mocs_compilation.cpp	f90765b02c9bb601
+1	239	1744735913536648888	/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/MemoryGame_autogen/timestamp	f90765b02c9bb601
+1	239	1744735913536648888	/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/MemoryGame_autogen/mocs_compilation.cpp	f90765b02c9bb601
+239	1859	1744735915156509592	CMakeFiles/MemoryGame.dir/MemoryGame_autogen/mocs_compilation.cpp.o	994d6fde108faef6
+239	2595	1744735915892446270	CMakeFiles/MemoryGame.dir/main.cpp.o	20c041598b382f59
+240	3153	1744735916452398071	CMakeFiles/MemoryGame.dir/popup.cpp.o	e1804eaf5d1a4f36
+239	3763	1744735917060345735	CMakeFiles/MemoryGame.dir/mainwindow.cpp.o	1ea2f9813c96887b
+3763	4142	1744735917440313009	MemoryGame	fd38f38142a72e2b

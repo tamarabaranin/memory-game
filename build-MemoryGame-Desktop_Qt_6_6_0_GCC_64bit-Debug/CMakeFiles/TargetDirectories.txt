@@ -1,0 +1,9 @@
+/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/MemoryGame.dir
+/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/MemoryGame_autogen_timestamp_deps.dir
+/home/korisnik/Desktop/MemoryGame/build-MemoryGame-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/MemoryGame_autogen.dir
